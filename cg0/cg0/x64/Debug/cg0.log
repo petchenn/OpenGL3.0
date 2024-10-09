@@ -1,0 +1,6 @@
+﻿  cg0.cpp
+C:\Users\PS\source\repos\cg0\cg0\cg0.cpp(84,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PS\source\repos\cg0\cg0\cg0.cpp(84,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PS\source\repos\cg0\cg0\cg0.cpp(85,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PS\source\repos\cg0\cg0\cg0.cpp(85,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  cg0.vcxproj -> C:\Users\PS\source\repos\cg0\x64\Debug\cg0.exe
